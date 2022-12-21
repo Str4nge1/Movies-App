@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$qRc73lpGW2NWwNTM.YXez.XW4rNyiGPDR7ey4YjQBagA/qDDx3Lhi",
+      "username": "Alex_",
+      "id": 12
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$pk0mkBGV1/11x35mHpjqsOPchjp7ys08v6rWkj/uLGGwVJpLjku3.",
+      "username": "Alex",
+      "id": 13
+    },
+    {
+      "email": "aleqsandre.b21@gmail.com",
+      "password": "$2a$10$Hh0s9VHsB7VPHeYXqRsYOeT4xy5nLi56BKKpUcAgaeR4ePPKDPYSO",
+      "username": "Strange",
+      "id": 14
+    }
+  ],
+  "movies": [
+    {
+      "title": "Avatar",
+      "genre": "Action",
+      "imdb": 7.8,
+      "selected": false
+    },
+    {
+      "title": "Avengers",
+      "genre": "Action",
+      "imdb": 8.4,
+      "selected": false
+    },
+    {
+      "title": "Wednesday",
+      "genre": "Comedy",
+      "imdb": 8.3,
+      "selected": false
+    },
+    {
+      "title": "Spirited",
+      "genre": "Comedy",
+      "imdb": 6.6,
+      "selected": false
+    },
+    {
+      "title": "King Kong",
+      "genre": "Action",
+      "imdb": 7.2,
+      "selected": false
+    },
+    {
+      "title": "Home Alone",
+      "genre": "Comedy",
+      "imdb": 7.7,
+      "selected": false
+    },
+    {
+      "title": "Bullet Train",
+      "genre": "Action",
+      "imdb": 8.3,
+      "selected": false
+    },
+    {
+      "title": "Black Panther",
+      "genre": "Fantasy",
+      "imdb": 7.2,
+      "selected": false
+    },
+    {
+      "title": "Interstelar",
+      "genre": "Fantasy",
+      "imdb": 8.5,
+      "selected": false
+    },
+    {
+      "title": "Troll",
+      "genre": "Action",
+      "imdb": 7.9,
+      "selected": false
+    }
+  ]
+}
